@@ -1,5 +1,6 @@
 body {
   margin: 0;
+  font-family: Work Sans;
 }
 
 .container {
@@ -21,7 +22,6 @@ body {
 
 .inner-container {
   width: 329px;
-  /* border: 2px solid red; */
   position: absolute;
   top: 15vh;
   left: 22px;
